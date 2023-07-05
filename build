@@ -1,0 +1,2 @@
+cd "${0%/*}"
+pkgbuild --root ROOT --identifier local.remu.gracefulShutdown --version 1.0 GracefulShutdown.pkg
